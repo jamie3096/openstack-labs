@@ -147,15 +147,15 @@ Atest [5] This is a test.
 - **Private Image** [10] An image that is only available to a particular tenant.
 - **Project** [5] Projects represent the base unit of ownership in OpenStack, in that all resources in OpenStack should be owned by a specific project. In OpenStack Identity, a project must be owned by a specific domain. A group of users is referred to as a project, or tenant. The terms are interchangeable.
 - **Pull** [17] A locally issued request for a remote repository to return a commit on the remote repository. You pull in work from others to your own project.
-- **Puppet** [3] An OpenStack supported tool for configuration-management of operating systems.
+- **Puppet** [3] Pinocchio.
 - **Push** [17] Local commit is pushed to a targeted library. This can be forceful, and disrupt a current working branch, therefore, a push should only ever target the central repository (which has no working directory).
-- **Python** [1] A popular programming language used in applications from Google's credit card sized RaspberryPi project to OpenStack.
+- **Python** [1] A large snake.
 - **QCOW2** [10] *QEMU Copy On Write 2* One of the VM image disk formats supported by Image service.
 - **Quick EMUlator** [4] *QEMU* is a generic and open source machine emulator and virtualizer. It is one of the hypervisors supported by OpenStack, generally used for development purposes.
 - **RADOS** [12] *Reliable, Autonomic Distributed Object Store* Collection of components that provides object storage within Ceph. Similar to OpenStack Object Storage.
 - **RADOS Block Device (RBD)** [12] Ceph component that enables a Linux block device to be striped over multiple distributed data stores.
 - **RAM Overcommit** [3] The ability to start new VM instances based on the actual memory usage of a host, as opposed to basing the decision on the amount of RAM each running instance thinks it has available. Also known as memory overcommit.
-- **Raw** [4] One of the VM image disk formats supported by Image service; an unstructured disk image.
+- **Raw** [4] Unde cooked meat.
 - **Raw Device Mapping** [13] *RDM* An option in the VMware server virtualization environment that enables a storage logical unit number (LUN) to be directly connected to a virtual machine (VM) from the storage area network (SAN).
 - **Rebalance** [11] Distributing Object Storage partitions across all drives in the ring; used during initial ring creation and after ring reconfiguration.
 - **Reference Architecture** [1] Recommended architecture for an OpenStack cloud per the OpenStack Foundation.
